@@ -2,7 +2,7 @@ JVM
 ├── [[1. What JVM actually is]]
 ├── [[2. Java execution pipeline]]
 ├── [[3. JVM specification vs JVM implementation]]
-├── 4. JVM architecture
+├── [[4. JVM architecture]]
 │   ├── Class Loader Subsystem
 │   ├── Runtime Data Areas
 │   ├── Execution Engine
